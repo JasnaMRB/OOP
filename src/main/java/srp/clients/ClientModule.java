@@ -1,9 +1,9 @@
-package clients;
+package srp.clients;
 
-import core.domain.Employee;
-import core.domain.dao.EmployeeDAO;
-import core.reporting.EmployeeReportFormatter;
-import core.reporting.FormatType;
+import srp.core.domain.Employee;
+import srp.core.domain.dao.EmployeeDAO;
+import srp.core.reporting.EmployeeReportFormatter;
+import srp.core.reporting.FormatType;
 
 public class ClientModule {
 

@@ -1,7 +1,7 @@
-package core.domain.dao;
+package srp.core.domain.dao;
 
-import core.domain.Employee;
-import db.DatabaseConnectionManager;
+import srp.core.domain.Employee;
+import srp.db.DatabaseConnectionManager;
 
 public class EmployeeDAO {
 

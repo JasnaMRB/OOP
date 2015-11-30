@@ -1,6 +1,6 @@
-package core.reporting;
+package srp.core.reporting;
 
-import core.domain.Employee;
+import srp.core.domain.Employee;
 
 public class EmployeeReportFormatter extends ReportFormatter {
 

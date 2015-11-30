@@ -1,4 +1,4 @@
-package core.domain;
+package srp.core.domain;
 
 import lombok.Data;
 
