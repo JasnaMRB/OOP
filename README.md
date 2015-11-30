@@ -1,6 +1,6 @@
 # Object-Oriented Programming
 
-Demo app demonsrtating various OOP principles, from Udemy course:
+Demo app demonstrating various OOP principles, from Udemy course:
 https://www.udemy.com/mastering-object-oriented-design-in-java
 
 ## package SRP: Single Responsibility Principle
