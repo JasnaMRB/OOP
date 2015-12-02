@@ -15,7 +15,8 @@ public class CustomerTransaction implements Accounting, Reporting {
 
     @Override
     public String getName() {
-        return customer.getName();
+       return "yay";
+        // return customer.getName();
     }
     @Override
     public Date getDate() {
@@ -23,11 +24,12 @@ public class CustomerTransaction implements Accounting, Reporting {
     }
     @Override
     public String productBreakDown() {
-        String reportListing = "";
+        /*String reportListing = "";
         for (Product product: products) {
              reportListing += product.getProductName();
          }
-        return reportListing;
+        return reportListing;*/
+        return "yay";
     }
     @Override
     public void prepareInvoice() {
