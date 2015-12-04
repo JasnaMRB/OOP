@@ -69,6 +69,6 @@ Helps encapsulate and make easier to understand the building of complex objects 
 
 Useful when we want to use another class to create an object.
 
-## Singleton Pattern
+### Singleton Pattern
 
 Useful for classes that need only one instance. NO public constructor.
