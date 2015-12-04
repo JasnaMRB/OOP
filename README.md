@@ -64,3 +64,7 @@ Many observers waiting for subject to tell them if an object has changed. When o
 ### Builder Pattern
 
 Helps encapsulate and make easier to understand the building of complex objects with lots of constructor fields.
+
+## Factory Pattern
+
+Useful when we want to use another class to create an object.
