@@ -65,6 +65,10 @@ Many observers waiting for subject to tell them if an object has changed. When o
 
 Helps encapsulate and make easier to understand the building of complex objects with lots of constructor fields.
 
-## Factory Pattern
+### Factory Pattern
 
 Useful when we want to use another class to create an object.
+
+## Singleton Pattern
+
+Useful for classes that need only one instance. NO public constructor.
